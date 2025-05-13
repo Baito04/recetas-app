@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1747091811494,
+    "nombre": "bolon de queso",
+    "ingredientes": "verde\naceite\nqueso",
+    "preparacion": "pela el verde y frielo ",
+    "categoria": "Desayuno",
+    "fecha": "2025-05-12T23:16:51.494Z"
+  },
+  {
+    "id": 1747091859300,
+    "nombre": "seco de pollo",
+    "ingredientes": "pollo\narroz\nrefrite",
+    "preparacion": "cocina el pollo en el refrito y ocina el arroz ",
+    "categoria": "Almuerzo",
+    "fecha": "2025-05-12T23:17:39.300Z"
+  },
+  {
+    "id": 1747091914784,
+    "nombre": "menestra",
+    "ingredientes": "frejol\narroz\ncarne",
+    "preparacion": "cocina el frejol",
+    "categoria": "Merienda",
+    "fecha": "2025-05-12T23:18:34.784Z"
+  },
+  {
+    "id": 1747092577264,
+    "nombre": "torta",
+    "ingredientes": "arina\nagua\nhuevos",
+    "preparacion": "bate la arina",
+    "categoria": "Postre",
+    "fecha": "2025-05-12T23:29:37.264Z"
+  },
+  {
+    "id": 1747093674231,
+    "nombre": "aaaa",
+    "ingredientes": "sagtsgfgdfgg\ndfgfgfs",
+    "preparacion": "dfgsdrhesh",
+    "categoria": "Desayuno",
+    "fecha": "2025-05-12T23:47:54.231Z"
+  },
+  {
+    "id": "1747103905372",
+    "nombre": "fsag",
+    "ingredientes": "fruta\ncarne\nvegetkes",
+    "preparacion": "cocinar a bastante",
+    "categoria": "Desayuno",
+    "fecha": "2025-05-13T02:38:25.372Z"
+  }
+]
